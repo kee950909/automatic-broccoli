@@ -1,0 +1,58 @@
+font {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+body {
+    background-color: rgb(227, 226, 219);
+    height: 100vh;
+}
+
+header {
+  width: 100%;
+  border: 1px rgb(176, 172, 143);
+  height: 5%;
+  background-color: rgb(60, 96, 74)
+}
+
+main {
+  border: 1px solid black;
+  height: 60%;
+  background-color: rgb(227, 226, 219);
+}
+
+main h1, h3 {
+    text-align: center;
+}
+
+h4  {
+    text-align: center;
+     solid white;
+}
+
+main img {
+    margin: 0 auto;
+    display: block;
+}
+
+#contact {
+  border: 1px solid rgb(60, 96, 74);
+  height: 30%;
+  background-color: rgb(140, 130, 108);
+}
+
+#contact h2 {
+    text-align: center;
+}
+
+#form {
+    border: 5px rgb(174, 139, 107);
+    width: 25%;
+    text-align: center;
+    margin: 0 auto;
+}
+
+footer {
+    /*width: 100%;*/
+    border: 1px solid (60, 96, 74);
+    height: 5%;
+    background-color: rgb(60, 96, 74)
+}
